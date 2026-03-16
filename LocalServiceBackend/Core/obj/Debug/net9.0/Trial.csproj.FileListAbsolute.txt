@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Trial\bin\Debug\net9.0\Trial.deps.json
+C:\Users\USER\source\repos\Trial\bin\Debug\net9.0\Trial.runtimeconfig.json
+C:\Users\USER\source\repos\Trial\bin\Debug\net9.0\Trial.dll
+C:\Users\USER\source\repos\Trial\bin\Debug\net9.0\Trial.pdb
+C:\Users\USER\source\repos\Trial\obj\Debug\net9.0\Trial.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Trial\obj\Debug\net9.0\Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Trial\obj\Debug\net9.0\Trial.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Trial\obj\Debug\net9.0\Trial.AssemblyInfo.cs
+C:\Users\USER\source\repos\Trial\obj\Debug\net9.0\Trial.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Trial\obj\Debug\net9.0\Trial.dll
+C:\Users\USER\source\repos\Trial\obj\Debug\net9.0\refint\Trial.dll
+C:\Users\USER\source\repos\Trial\obj\Debug\net9.0\Trial.pdb
+C:\Users\USER\source\repos\Trial\obj\Debug\net9.0\Trial.genruntimeconfig.cache
+C:\Users\USER\source\repos\Trial\obj\Debug\net9.0\ref\Trial.dll
