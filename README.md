@@ -9,7 +9,7 @@ The project demonstrates **secure backend development, role-based access control
 
 ## 🎥 Demo
 
-[![Watch the demo](thumbnail.png)](demo.mp4)
+[![Watch the demo](thumbnail.png)](https://github.com/Oussama-khatib/local-services-project/raw/main/demo.mp4)
 
 # Key Features
 
